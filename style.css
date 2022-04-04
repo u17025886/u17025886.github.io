@@ -1,0 +1,41 @@
+.main_content{
+    background-color: lightseagreen;
+}
+
+
+.header {
+    text-align: center;
+    display: block;
+    text-shadow: 15px gray;
+    color: white;
+    background-color: lightseagreen;
+}
+
+.Welcome{
+    text-align: center;
+    display: block;
+    text-shadow: 15px gray;
+    color: white;
+    background-color: lightseagreen;
+    padding-bottom: 100px;
+}
+
+.about-me{
+    text-align: center;
+    display: block;
+    text-shadow: 15px gray;
+    color: white;
+    background-color: lightseagreen;
+}
+
+p{
+    text-align: justify;
+    font-size: 150%;
+}
+
+.image{
+    display: inline-block;
+    margin-left: 20%;
+}
+
+
